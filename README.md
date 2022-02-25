@@ -231,6 +231,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
+* [Icons Emoji GitHub](https://goalwebsitetraffic.netlify.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
